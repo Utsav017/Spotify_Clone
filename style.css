@@ -13,7 +13,7 @@ body {
 
 .main {
   display: flex;
-  height: 46rem;
+  height: 100vh;
   padding: 0.5rem;
 }
 
